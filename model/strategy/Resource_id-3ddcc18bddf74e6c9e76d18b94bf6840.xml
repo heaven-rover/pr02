@@ -1,0 +1,11 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ОАПиР"
+    id="id-3ddcc18bddf74e6c9e76d18b94bf6840">
+  <properties
+      key="Report:Model:Cover:Background"/>
+  <properties
+      key="Report:View:Detailed"
+      value="Д01"/>
+  <properties/>
+</archimate:Resource>
